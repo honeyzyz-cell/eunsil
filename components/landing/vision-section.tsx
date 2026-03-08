@@ -47,10 +47,10 @@ export function VisionSection() {
             <span className="text-sm font-medium text-primary-foreground/70 tracking-wider mb-4 block">
               커뮤니티 비전
             </span>
-            <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-semibold mb-8 leading-tight text-balance">
-              각자가 주인공인 행복한 삶을 돕는
-              <br />
-              <span className="text-accent">'인생 간호사'</span>가 되고 싶습니다
+            <h2 className="font-serif text-2xl md:text-4xl lg:text-5xl font-semibold mb-8 leading-tight text-balance">
+              내 인생을 주인공으로<br />
+              만드는 <span className="text-accent">'인생 간호사'</span>로<br />
+              같이 성장하고 싶습니다
             </h2>
             <p className="text-lg md:text-xl text-primary-foreground/80 max-w-3xl mx-auto leading-relaxed">
               전문가로서의 도움을 넘어,

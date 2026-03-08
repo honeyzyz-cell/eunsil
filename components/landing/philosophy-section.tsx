@@ -38,8 +38,8 @@ export function PhilosophySection() {
             <span className="text-sm font-medium text-primary tracking-wider mb-4 block">
               나의 철학
             </span>
-            <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-semibold text-foreground text-balance">
-              하나뿐인 소중한 하루를 위해
+            <h2 className="font-serif text-2xl md:text-4xl lg:text-5xl font-semibold text-foreground text-balance">
+              하나뿐인 소중한<br />하루를 위해
             </h2>
           </motion.div>
 

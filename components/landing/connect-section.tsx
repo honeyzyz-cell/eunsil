@@ -50,8 +50,8 @@ export function ConnectSection() {
             <span className="text-sm font-medium text-primary tracking-wider mb-4 block">
               함께해요
             </span>
-            <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-semibold text-foreground mb-6 text-balance">
-              소통의 창을 열어둡니다
+            <h2 className="font-serif text-2xl md:text-4xl lg:text-5xl font-semibold text-foreground mb-6 text-balance">
+              서로의 경험과 지혜를 나누며<br />함께 성장하는 커뮤니티
             </h2>
             <p className="text-lg text-muted-foreground">
               다양한 채널에서 만나요

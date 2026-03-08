@@ -57,8 +57,8 @@ export function SpectrumSection() {
           <span className="text-sm font-medium text-primary tracking-wider mb-4 block">
             전문 영역
           </span>
-          <h2 className="font-serif text-3xl md:text-4xl lg:text-5xl font-semibold text-foreground mb-6 text-balance">
-            삶의 모든 영역에서 함께합니다
+          <h2 className="font-serif text-2xl md:text-4xl lg:text-5xl font-semibold text-foreground mb-6 text-balance">
+            삶의 모든 영역에서<br />함께합니다
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
             건강, 마음, 경제적 안정 그리고 성장까지.
