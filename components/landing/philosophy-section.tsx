@@ -20,7 +20,7 @@ export function PhilosophySection() {
     },
     {
       icon: Shield,
-      text: "내 가족과 내 삶의 최대 위험을 방지하고 소중한 것은 지켜내는 경제적 포트폴리오.",
+      text: "내 가족과 내 삶을 지켜내는 하루를 함께 만들어갑니다.",
     },
   ];
 

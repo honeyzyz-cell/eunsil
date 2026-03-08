@@ -21,7 +21,7 @@ export function SpectrumSection() {
     {
       icon: Megaphone,
       category: "비즈니스 & 마케팅",
-      title: "브랜드 블로그 & 플레이스 대행",
+      title: "전문직특화 블로그&플레이스 대행",
       description: "당신의 진심이 세상에 닿도록 돕습니다.",
       color: "bg-accent/50",
       iconColor: "text-accent-foreground",
@@ -38,7 +38,7 @@ export function SpectrumSection() {
       icon: Leaf,
       category: "웰니스 솔루션",
       title: "암웨이 ABO",
-      description: "신체적 건강과 지속 가능한 성장의 기반을 다집니다.",
+      description: "돈보다 무엇보다 소중한 건강과 가족을 위한 사업을 합니다.",
       color: "bg-accent/50",
       iconColor: "text-accent-foreground",
     },
