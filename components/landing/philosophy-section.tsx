@@ -12,7 +12,7 @@ export function PhilosophySection() {
   const philosophyItems = [
     {
       icon: Heart,
-      text: "호스피스 병동에서 배운 하루하루의 소중함으로 배웠습니다.",
+      text: "호스피스병동에서 1000번의 마지막 모습을 보고 삶을 배웠습니다.",
     },
     {
       icon: Sparkles,
